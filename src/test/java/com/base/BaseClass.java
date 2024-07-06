@@ -11,11 +11,5 @@ public class BaseClass {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com/");
 
-		System.out.println("created dev branch");
-
-		System.out.println("code updated by git a to dev");
-		
-		System.out.println("merge updated from git b");
-
 	}
 }
